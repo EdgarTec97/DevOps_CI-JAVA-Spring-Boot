@@ -54,4 +54,5 @@ These tests are launched automatically.
 You can find the details of the cases in /BANK_TECHNICAL_TEST/src/test/java/com/sotobotero/bank/BankBusinessRuleTests.java
 
 ### More Information
+Contact:
 Edgar Castillo Vega
